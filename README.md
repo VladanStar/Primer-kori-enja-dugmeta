@@ -1,0 +1,2 @@
+# Primer-kori-enja-dugmeta
+Listing klase ButtonDemo prikazuje program koji koristi dugmad za kontrolu kretanja teksta Listing klase ButtonDemo prikazuje program koji koristi dugmad za kontrolu kretanja teksta, kao što je prikazano na slici 2.   Slika-2 Program demonstirira upotrebu digmadi Program kreira dva dugmeta: btLeft i btRight. Oba sadrže i tekst i sliku (linije 18-29). Dugmad su postavljeni u okno Hbox (linija 32) a Hbox okno je je postavljeno na donjoj strani okna sa granicama
